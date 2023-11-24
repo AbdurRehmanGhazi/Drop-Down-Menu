@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A2E7FBE-0D2A-4842-8AC0-30D78EF82503"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B729ABF7-64C5-4FD5-8662-D425A0AFB785"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "New Tabsera Design/CategoriesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "sectionTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B729ABF7-64C5-4FD5-8662-D425A0AFB785 - f4fca0ff88af8aad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "New_Tabsera_Design.CategoriesVC.sectionTap(gesture: __C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "New Tabsera Design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdurrehman/Desktop/New%20Tabsera%20Design/New%20Tabsera%20Design/CategoriesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "B729ABF7-64C5-4FD5-8662-D425A0AFB785 - 8a77899e041e01f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "New_Tabsera_Design.CategoriesVC.sectionTap(__C.UIButton) -&gt; ()"
+                  moduleName = "New Tabsera Design"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdurrehman/Desktop/New%20Tabsera%20Design/New%20Tabsera%20Design/CategoriesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
